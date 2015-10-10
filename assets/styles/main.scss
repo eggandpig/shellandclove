@@ -2,8 +2,11 @@
 
 // Automatically injected Bower dependencies via wiredep (never manually edit this block)
 // bower:scss
-@import "../../bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss";
+@import "../../bower_components/susy/sass/_susy.scss";
 // endbower
+
+// Import Susy
+@import "bower_components/susy/sass/susy";
 
 @import "common/_global";
 @import "components/_buttons";
